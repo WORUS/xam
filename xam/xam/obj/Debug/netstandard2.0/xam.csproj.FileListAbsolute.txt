@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\xam\xam\xam\bin\Debug\netstandard2.0\xam.deps.json
+C:\Users\PC\source\repos\xam\xam\xam\bin\Debug\netstandard2.0\xam.dll
+C:\Users\PC\source\repos\xam\xam\xam\bin\Debug\netstandard2.0\ref\xam.dll
+C:\Users\PC\source\repos\xam\xam\xam\bin\Debug\netstandard2.0\xam.pdb
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.AssemblyInfo.cs
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.dll
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\ref\xam.dll
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.pdb
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\xam.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\xam\xam\xam\obj\Debug\netstandard2.0\BookPage.xaml.g.cs
